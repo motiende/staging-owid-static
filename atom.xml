@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<title>Our World in Data</title>
+<subtitle>Living conditions around the world are changing rapidly. Explore how and why.</subtitle>
+<id>https://staging-owid.netlify.com/</id>
+<link type="text/html" rel="alternate" href="https://staging-owid.netlify.com"/>
+<link type="application/atom+xml" rel="self" href="https://staging-owid.netlify.com/atom.xml"/>
+<updated>2019-07-15T09:00:02.000Z</updated>
+<entry>
+    <title><![CDATA[More than 8 out of 10 people in the world will live in Asia or Africa by 2100]]></title>
+    <id>https://staging-owid.netlify.com/region-population-2100</id>
+    <link rel="alternate" href="https://staging-owid.netlify.com/region-population-2100"/>
+    <published>2019-07-15T09:00:02.000Z</published>
+    <updated>2019-07-15T09:10:45.000Z</updated>
+    <author><name>Hannah Ritchie</name></author>
+    <summary><![CDATA[This blog post draws on data and research discussed in our entry on World Population Growth.]]></summary>
+</entry>
+<entry>
+    <title><![CDATA[How I use Our World in Data in my work as a high school teacher]]></title>
+    <id>https://staging-owid.netlify.com/how-use-owid-for-high-school-teaching</id>
+    <link rel="alternate" href="https://staging-owid.netlify.com/how-use-owid-for-high-school-teaching"/>
+    <published>2019-07-04T13:00:10.000Z</published>
+    <updated>2019-07-04T13:08:41.000Z</updated>
+    <author><name>Guest Post</name></author>
+    <summary><![CDATA[At Our World in Data we get lots of useful feedback from users: suggestions for topics we should cover, questions, and often feedback from policymakers, journalists, researchers and teachers who use us in their work.]]></summary>
+</entry>
+<entry>
+    <title><![CDATA[How I use Our World in Data in my work as a medical doctor]]></title>
+    <id>https://staging-owid.netlify.com/how-i-use-our-world-in-data-in-my-work-as-a-medical-doctor</id>
+    <link rel="alternate" href="https://staging-owid.netlify.com/how-i-use-our-world-in-data-in-my-work-as-a-medical-doctor"/>
+    <published>2019-07-03T13:32:39.000Z</published>
+    <updated>2019-07-03T17:10:45.000Z</updated>
+    <author><name>Guest Post</name></author>
+    <summary><![CDATA[]]></summary>
+</entry>
+<entry>
+    <title><![CDATA[Which countries achieved economic growth? And why does it matter?]]></title>
+    <id>https://staging-owid.netlify.com/economic-growth-since-1950</id>
+    <link rel="alternate" href="https://staging-owid.netlify.com/economic-growth-since-1950"/>
+    <published>2019-06-25T15:01:24.000Z</published>
+    <updated>2019-07-03T09:22:12.000Z</updated>
+    <author><name>Max Roser</name></author>
+    <summary><![CDATA[South Koreans are on average 32-times richer than in 1950; Romanians 20-times; Chinese 16-times. Other countries stagnated and remained poor. We look at how incomes have changed around the world and why it matters.]]></summary>
+</entry>
+<entry>
+    <title><![CDATA[Does democracy lead to better health?]]></title>
+    <id>https://staging-owid.netlify.com/democracy-health</id>
+    <link rel="alternate" href="https://staging-owid.netlify.com/democracy-health"/>
+    <published>2019-06-24T12:00:50.000Z</published>
+    <updated>2019-06-28T14:01:49.000Z</updated>
+    <author><name>Esteban Ortiz-Ospina</name></author>
+    <summary><![CDATA[There is a cross-country correlation between democracy (elections, freedom of expression, equality before law etc.) and population health. We take a look at these correlations and whether there is good evidence to suggest causality.]]></summary>
+</entry>
+<entry>
+    <title><![CDATA[Two centuries of rapid global population growth will come to an end]]></title>
+    <id>https://staging-owid.netlify.com/world-population-growth-past-future</id>
+    <link rel="alternate" href="https://staging-owid.netlify.com/world-population-growth-past-future"/>
+    <published>2019-06-18T09:00:41.000Z</published>
+    <updated>2019-06-26T15:48:33.000Z</updated>
+    <author><name>Max Roser</name></author>
+    <summary><![CDATA[Global population has increased rapidly – particularly over the past 100 years. But this growth is temporary: we take a look at population growth over the past few centuries and what we can expect for the future, drawing on the latest UN Population Prospect projections. It maps the transition from rapid growth to a new equilibrium. ]]></summary>
+</entry>
+<entry>
+    <title><![CDATA[Mortality in the past – around half died as children]]></title>
+    <id>https://staging-owid.netlify.com/child-mortality-in-the-past</id>
+    <link rel="alternate" href="https://staging-owid.netlify.com/child-mortality-in-the-past"/>
+    <published>2019-06-11T10:20:52.000Z</published>
+    <updated>2019-06-26T16:10:06.000Z</updated>
+    <author><name>Max Roser</name></author>
+    <summary><![CDATA[In our long history, how likely was it that our ancestors died as children? Historical studies suggest that around one-quarter of infants died in their first year of life and around half of all children died before they reached the end of puberty. It's only in the very recent past that we've seen dramatic improvements.]]></summary>
+</entry>
+<entry>
+    <title><![CDATA[Does the news reflect what we die from?]]></title>
+    <id>https://staging-owid.netlify.com/does-the-news-reflect-what-we-die-from</id>
+    <link rel="alternate" href="https://staging-owid.netlify.com/does-the-news-reflect-what-we-die-from"/>
+    <published>2019-05-29T11:00:41.000Z</published>
+    <updated>2019-06-02T12:55:07.000Z</updated>
+    <author><name>Hannah Ritchie</name></author>
+    <summary><![CDATA[There is a large disconnect between what gets covered in the media and the day-to-day reality for most. How do causes of death in the US match with media coverage and what people search for online?]]></summary>
+</entry>
+<entry>
+    <title><![CDATA[Population momentum: If the number of children is not growing, why is the population still increasing?]]></title>
+    <id>https://staging-owid.netlify.com/population-momentum</id>
+    <link rel="alternate" href="https://staging-owid.netlify.com/population-momentum"/>
+    <published>2019-05-28T13:48:01.000Z</published>
+    <updated>2019-05-30T12:50:45.000Z</updated>
+    <author><name>Max Roser</name></author>
+    <summary><![CDATA[50 years ago the average woman in world had five children. Since then, this figure has more than halved. Yet the global population is still rising – why is this the case?]]></summary>
+</entry>
+<entry>
+    <title><![CDATA[Child mortality is an everyday tragedy of enormous scale that rarely makes the headlines]]></title>
+    <id>https://staging-owid.netlify.com/child-mortality-everyday-tragedy-no-headlines</id>
+    <link rel="alternate" href="https://staging-owid.netlify.com/child-mortality-everyday-tragedy-no-headlines"/>
+    <published>2019-05-24T10:00:47.000Z</published>
+    <updated>2019-05-30T12:49:07.000Z</updated>
+    <author><name>Max Roser</name></author>
+    <summary><![CDATA[5.4 million children under 5 die every year – that's 15,000 every day. Yet this is an everyday tragedy that never makes the headlines.]]></summary>
+</entry>
+</feed>
