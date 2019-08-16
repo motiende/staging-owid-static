@@ -1,99 +1,99 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Our World in Data</title>
-<subtitle>Living conditions around the world are changing rapidly. Explore how and why.</subtitle>
+<subtitle>Research and data to make progress against the world’s largest problems.</subtitle>
 <id>https://staging-owid.netlify.com/</id>
 <link type="text/html" rel="alternate" href="https://staging-owid.netlify.com"/>
 <link type="application/atom+xml" rel="self" href="https://staging-owid.netlify.com/atom.xml"/>
-<updated>2019-07-15T09:00:02.000Z</updated>
+<updated>2019-08-09T11:00:15.000Z</updated>
+<entry>
+    <title><![CDATA[What are children dying from and what can we do about it?]]></title>
+    <id>https://staging-owid.netlify.com/what-are-children-dying-from-and-what-can-we-do-about-it</id>
+    <link rel="alternate" href="https://staging-owid.netlify.com/what-are-children-dying-from-and-what-can-we-do-about-it"/>
+    <published>2019-08-09T11:00:15.000Z</published>
+    <updated>2019-08-12T13:19:19.000Z</updated>
+    <author><name>Bernadeta Dadonaite</name></author>
+    <summary><![CDATA[This blog post is part of our Child Mortality Series and draws on data and research discussed in our entry on Child & Infant Mortality.]]></summary>
+</entry>
+<entry>
+    <title><![CDATA[Where in the world are children dying?]]></title>
+    <id>https://staging-owid.netlify.com/where-are-children-dying</id>
+    <link rel="alternate" href="https://staging-owid.netlify.com/where-are-children-dying"/>
+    <published>2019-08-08T08:00:17.000Z</published>
+    <updated>2019-08-08T15:33:51.000Z</updated>
+    <author><name>Hannah Ritchie</name></author>
+    <summary><![CDATA[This blog post draws on data and research discussed in our entry on Child & Infant Mortality.]]></summary>
+</entry>
+<entry>
+    <title><![CDATA[Introducing the new Our World in Data child mortality series]]></title>
+    <id>https://staging-owid.netlify.com/introducing-the-child-mortality-series</id>
+    <link rel="alternate" href="https://staging-owid.netlify.com/introducing-the-child-mortality-series"/>
+    <published>2019-08-06T17:20:32.000Z</published>
+    <updated>2019-08-07T16:09:57.000Z</updated>
+    <author><name>Hannah Ritchie</name></author><author><name>Bernadeta Dadonaite</name></author><author><name>Max Roser</name></author>
+    <summary><![CDATA[This blog post draws on data and research discussed in our entry on Child & Infant Mortality.]]></summary>
+</entry>
+<entry>
+    <title><![CDATA[How does the sex ratio at birth vary across the world?]]></title>
+    <id>https://staging-owid.netlify.com/sex-ratio-at-birth</id>
+    <link rel="alternate" href="https://staging-owid.netlify.com/sex-ratio-at-birth"/>
+    <published>2019-08-06T08:30:43.000Z</published>
+    <updated>2019-08-06T08:39:34.000Z</updated>
+    <author><name>Hannah Ritchie</name></author>
+    <summary><![CDATA[This blog post draws on data and research discussed in our entry on Gender Ratio.]]></summary>
+</entry>
+<entry>
+    <title><![CDATA[How many people support vaccination across the world?]]></title>
+    <id>https://staging-owid.netlify.com/support-for-vaccination</id>
+    <link rel="alternate" href="https://staging-owid.netlify.com/support-for-vaccination"/>
+    <published>2019-08-01T08:30:11.000Z</published>
+    <updated>2019-08-02T10:31:22.000Z</updated>
+    <author><name>Hannah Ritchie</name></author><author><name>Samantha Vanderslott</name></author>
+    <summary><![CDATA[This blog post draws on data and research discussed in our entry on Vaccination.]]></summary>
+</entry>
+<entry>
+    <title><![CDATA[Skepticism to vaccines and what to do about it]]></title>
+    <id>https://staging-owid.netlify.com/vaccine-skepticism</id>
+    <link rel="alternate" href="https://staging-owid.netlify.com/vaccine-skepticism"/>
+    <published>2019-08-01T08:30:06.000Z</published>
+    <updated>2019-08-02T10:25:19.000Z</updated>
+    <author><name>Samantha Vanderslott</name></author>
+    <summary><![CDATA[This blog post draws on data and research discussed in our entry on Vaccination.]]></summary>
+</entry>
+<entry>
+    <title><![CDATA[We're hiring! Why I work at OWID and why you should consider joining our research team]]></title>
+    <id>https://staging-owid.netlify.com/health-colleague</id>
+    <link rel="alternate" href="https://staging-owid.netlify.com/health-colleague"/>
+    <published>2019-07-31T12:00:15.000Z</published>
+    <updated>2019-07-31T13:40:55.000Z</updated>
+    <author><name>Hannah Ritchie</name></author>
+    <summary><![CDATA[Now that Our World in Data has secured four years of funding, we're looking to expand our small team. We're on the search for a postdoctoral researcher in the area of global health and population sciences. At a high level, we're looking for someone with experience in handling, analyzing and presenting data and with a background in global health, demography, population sciences, epidemiology, or public health. You can find the nitty-gritty details of the role and application process here.]]></summary>
+</entry>
+<entry>
+    <title><![CDATA[Are we happier when we spend more time with others?]]></title>
+    <id>https://staging-owid.netlify.com/happiness-and-friends</id>
+    <link rel="alternate" href="https://staging-owid.netlify.com/happiness-and-friends"/>
+    <published>2019-07-17T06:29:24.000Z</published>
+    <updated>2019-07-27T12:28:57.000Z</updated>
+    <author><name>Esteban Ortiz-Ospina</name></author>
+    <summary><![CDATA[Are we happier when we spend more time with others? Studies suggest social relations are key factor in happiness & life satisfaction. We take a closer look at the evidence for how much social connections matter for happiness.]]></summary>
+</entry>
+<entry>
+    <title><![CDATA[How important are social relations for our health and well-being?]]></title>
+    <id>https://staging-owid.netlify.com/social-relations-health-and-well-being</id>
+    <link rel="alternate" href="https://staging-owid.netlify.com/social-relations-health-and-well-being"/>
+    <published>2019-07-17T05:10:21.000Z</published>
+    <updated>2019-07-27T12:15:26.000Z</updated>
+    <author><name>Esteban Ortiz-Ospina</name></author>
+    <summary><![CDATA[Loneliness has been reported to be as lethal as '15 cigarettes a day'. What is the evidence for this? We take a deeper look at the data and research on the link between loneliness and health and wellbeing.]]></summary>
+</entry>
 <entry>
     <title><![CDATA[More than 8 out of 10 people in the world will live in Asia or Africa by 2100]]></title>
     <id>https://staging-owid.netlify.com/region-population-2100</id>
     <link rel="alternate" href="https://staging-owid.netlify.com/region-population-2100"/>
     <published>2019-07-15T09:00:02.000Z</published>
-    <updated>2019-07-15T09:10:45.000Z</updated>
+    <updated>2019-07-27T11:14:47.000Z</updated>
     <author><name>Hannah Ritchie</name></author>
-    <summary><![CDATA[This blog post draws on data and research discussed in our entry on World Population Growth.]]></summary>
-</entry>
-<entry>
-    <title><![CDATA[How I use Our World in Data in my work as a high school teacher]]></title>
-    <id>https://staging-owid.netlify.com/how-use-owid-for-high-school-teaching</id>
-    <link rel="alternate" href="https://staging-owid.netlify.com/how-use-owid-for-high-school-teaching"/>
-    <published>2019-07-04T13:00:10.000Z</published>
-    <updated>2019-07-04T13:08:41.000Z</updated>
-    <author><name>Guest Post</name></author>
-    <summary><![CDATA[At Our World in Data we get lots of useful feedback from users: suggestions for topics we should cover, questions, and often feedback from policymakers, journalists, researchers and teachers who use us in their work.]]></summary>
-</entry>
-<entry>
-    <title><![CDATA[How I use Our World in Data in my work as a medical doctor]]></title>
-    <id>https://staging-owid.netlify.com/how-i-use-our-world-in-data-in-my-work-as-a-medical-doctor</id>
-    <link rel="alternate" href="https://staging-owid.netlify.com/how-i-use-our-world-in-data-in-my-work-as-a-medical-doctor"/>
-    <published>2019-07-03T13:32:39.000Z</published>
-    <updated>2019-07-03T17:10:45.000Z</updated>
-    <author><name>Guest Post</name></author>
-    <summary><![CDATA[]]></summary>
-</entry>
-<entry>
-    <title><![CDATA[Which countries achieved economic growth? And why does it matter?]]></title>
-    <id>https://staging-owid.netlify.com/economic-growth-since-1950</id>
-    <link rel="alternate" href="https://staging-owid.netlify.com/economic-growth-since-1950"/>
-    <published>2019-06-25T15:01:24.000Z</published>
-    <updated>2019-07-03T09:22:12.000Z</updated>
-    <author><name>Max Roser</name></author>
-    <summary><![CDATA[South Koreans are on average 32-times richer than in 1950; Romanians 20-times; Chinese 16-times. Other countries stagnated and remained poor. We look at how incomes have changed around the world and why it matters.]]></summary>
-</entry>
-<entry>
-    <title><![CDATA[Does democracy lead to better health?]]></title>
-    <id>https://staging-owid.netlify.com/democracy-health</id>
-    <link rel="alternate" href="https://staging-owid.netlify.com/democracy-health"/>
-    <published>2019-06-24T12:00:50.000Z</published>
-    <updated>2019-06-28T14:01:49.000Z</updated>
-    <author><name>Esteban Ortiz-Ospina</name></author>
-    <summary><![CDATA[There is a cross-country correlation between democracy (elections, freedom of expression, equality before law etc.) and population health. We take a look at these correlations and whether there is good evidence to suggest causality.]]></summary>
-</entry>
-<entry>
-    <title><![CDATA[Two centuries of rapid global population growth will come to an end]]></title>
-    <id>https://staging-owid.netlify.com/world-population-growth-past-future</id>
-    <link rel="alternate" href="https://staging-owid.netlify.com/world-population-growth-past-future"/>
-    <published>2019-06-18T09:00:41.000Z</published>
-    <updated>2019-06-26T15:48:33.000Z</updated>
-    <author><name>Max Roser</name></author>
-    <summary><![CDATA[Global population has increased rapidly – particularly over the past 100 years. But this growth is temporary: we take a look at population growth over the past few centuries and what we can expect for the future, drawing on the latest UN Population Prospect projections. It maps the transition from rapid growth to a new equilibrium. ]]></summary>
-</entry>
-<entry>
-    <title><![CDATA[Mortality in the past – around half died as children]]></title>
-    <id>https://staging-owid.netlify.com/child-mortality-in-the-past</id>
-    <link rel="alternate" href="https://staging-owid.netlify.com/child-mortality-in-the-past"/>
-    <published>2019-06-11T10:20:52.000Z</published>
-    <updated>2019-06-26T16:10:06.000Z</updated>
-    <author><name>Max Roser</name></author>
-    <summary><![CDATA[In our long history, how likely was it that our ancestors died as children? Historical studies suggest that around one-quarter of infants died in their first year of life and around half of all children died before they reached the end of puberty. It's only in the very recent past that we've seen dramatic improvements.]]></summary>
-</entry>
-<entry>
-    <title><![CDATA[Does the news reflect what we die from?]]></title>
-    <id>https://staging-owid.netlify.com/does-the-news-reflect-what-we-die-from</id>
-    <link rel="alternate" href="https://staging-owid.netlify.com/does-the-news-reflect-what-we-die-from"/>
-    <published>2019-05-29T11:00:41.000Z</published>
-    <updated>2019-06-02T12:55:07.000Z</updated>
-    <author><name>Hannah Ritchie</name></author>
-    <summary><![CDATA[There is a large disconnect between what gets covered in the media and the day-to-day reality for most. How do causes of death in the US match with media coverage and what people search for online?]]></summary>
-</entry>
-<entry>
-    <title><![CDATA[Population momentum: If the number of children is not growing, why is the population still increasing?]]></title>
-    <id>https://staging-owid.netlify.com/population-momentum</id>
-    <link rel="alternate" href="https://staging-owid.netlify.com/population-momentum"/>
-    <published>2019-05-28T13:48:01.000Z</published>
-    <updated>2019-05-30T12:50:45.000Z</updated>
-    <author><name>Max Roser</name></author>
-    <summary><![CDATA[50 years ago the average woman in world had five children. Since then, this figure has more than halved. Yet the global population is still rising – why is this the case?]]></summary>
-</entry>
-<entry>
-    <title><![CDATA[Child mortality is an everyday tragedy of enormous scale that rarely makes the headlines]]></title>
-    <id>https://staging-owid.netlify.com/child-mortality-everyday-tragedy-no-headlines</id>
-    <link rel="alternate" href="https://staging-owid.netlify.com/child-mortality-everyday-tragedy-no-headlines"/>
-    <published>2019-05-24T10:00:47.000Z</published>
-    <updated>2019-05-30T12:49:07.000Z</updated>
-    <author><name>Max Roser</name></author>
-    <summary><![CDATA[5.4 million children under 5 die every year – that's 15,000 every day. Yet this is an everyday tragedy that never makes the headlines.]]></summary>
+    <summary><![CDATA[The UN projects that the world population will increase from 7.7 billion today to 10.9 billion by 2100. Most of this growth will come from Africa; its share of the world population will rise from 17% to 40%. More than 8-in-10 people will live in Asia or Africa by the end of the century.]]></summary>
 </entry>
 </feed>
