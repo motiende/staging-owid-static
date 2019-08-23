@@ -729,7 +729,7 @@
     </url>
     <url>
         <loc>https://staging-owid.netlify.com/child-mortality</loc>
-        <lastmod>2019-08-13</lastmod>
+        <lastmod>2019-08-23</lastmod>
     </url>
     <url>
         <loc>https://staging-owid.netlify.com/vaccination</loc>
@@ -1921,7 +1921,7 @@
     </url>
     <url>
         <loc>https://staging-owid.netlify.com/what-are-children-dying-from-and-what-can-we-do-about-it</loc>
-        <lastmod>2019-08-12</lastmod>
+        <lastmod>2019-08-23</lastmod>
     </url>
     <url>
         <loc>https://staging-owid.netlify.com/interventions-for-treating-diarrheal-diseases</loc>
@@ -1930,6 +1930,10 @@
     <url>
         <loc>https://staging-owid.netlify.com/rotavirus-vaccine-effectiveness-by-region</loc>
         <lastmod>2019-08-14</lastmod>
+    </url>
+    <url>
+        <loc>https://staging-owid.netlify.com/untitled-reusable-block</loc>
+        <lastmod>2019-08-23</lastmod>
     </url>
     <url>
         <loc>https://staging-owid.netlify.com/grapher/suicide-rates-by-country</loc>
