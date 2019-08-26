@@ -5,22 +5,22 @@
 <id>https://staging-owid.netlify.com/</id>
 <link type="text/html" rel="alternate" href="https://staging-owid.netlify.com"/>
 <link type="application/atom+xml" rel="self" href="https://staging-owid.netlify.com/atom.xml"/>
-<updated>2019-08-09T12:00:15.000Z</updated>
+<updated>2019-08-09T11:00:15.000Z</updated>
 <entry>
     <title><![CDATA[What are children dying from and what can we do about it?]]></title>
     <id>https://staging-owid.netlify.com/what-are-children-dying-from-and-what-can-we-do-about-it</id>
     <link rel="alternate" href="https://staging-owid.netlify.com/what-are-children-dying-from-and-what-can-we-do-about-it"/>
-    <published>2019-08-09T12:00:15.000Z</published>
-    <updated>2019-08-23T09:36:26.000Z</updated>
+    <published>2019-08-09T11:00:15.000Z</published>
+    <updated>2019-08-23T13:10:27.000Z</updated>
     <author><name>Bernadeta Dadonaite</name></author>
-    <summary><![CDATA[This blog post is part of our Child Mortality Series and draws on data and research discussed in our entry on Child & Infant Mortality.]]></summary>
+    <summary><![CDATA[]]></summary>
 </entry>
 <entry>
     <title><![CDATA[Where in the world are children dying?]]></title>
     <id>https://staging-owid.netlify.com/where-are-children-dying</id>
     <link rel="alternate" href="https://staging-owid.netlify.com/where-are-children-dying"/>
-    <published>2019-08-08T09:00:17.000Z</published>
-    <updated>2019-08-18T09:46:57.000Z</updated>
+    <published>2019-08-08T08:00:17.000Z</published>
+    <updated>2019-08-18T08:46:57.000Z</updated>
     <author><name>Hannah Ritchie</name></author>
     <summary><![CDATA[This blog post draws on data and research discussed in our entry on Child & Infant Mortality.]]></summary>
 </entry>
@@ -28,8 +28,8 @@
     <title><![CDATA[Introducing the new Our World in Data child mortality series]]></title>
     <id>https://staging-owid.netlify.com/introducing-the-child-mortality-series</id>
     <link rel="alternate" href="https://staging-owid.netlify.com/introducing-the-child-mortality-series"/>
-    <published>2019-08-06T18:20:32.000Z</published>
-    <updated>2019-08-07T17:09:57.000Z</updated>
+    <published>2019-08-06T17:20:32.000Z</published>
+    <updated>2019-08-07T16:09:57.000Z</updated>
     <author><name>Hannah Ritchie</name></author><author><name>Bernadeta Dadonaite</name></author><author><name>Max Roser</name></author>
     <summary><![CDATA[This blog post draws on data and research discussed in our entry on Child & Infant Mortality.]]></summary>
 </entry>
@@ -37,8 +37,8 @@
     <title><![CDATA[How does the sex ratio at birth vary across the world?]]></title>
     <id>https://staging-owid.netlify.com/sex-ratio-at-birth</id>
     <link rel="alternate" href="https://staging-owid.netlify.com/sex-ratio-at-birth"/>
-    <published>2019-08-06T09:30:43.000Z</published>
-    <updated>2019-08-06T09:39:34.000Z</updated>
+    <published>2019-08-06T08:30:43.000Z</published>
+    <updated>2019-08-06T08:39:34.000Z</updated>
     <author><name>Hannah Ritchie</name></author>
     <summary><![CDATA[This blog post draws on data and research discussed in our entry on Gender Ratio.]]></summary>
 </entry>
@@ -46,8 +46,8 @@
     <title><![CDATA[How many people support vaccination across the world?]]></title>
     <id>https://staging-owid.netlify.com/support-for-vaccination</id>
     <link rel="alternate" href="https://staging-owid.netlify.com/support-for-vaccination"/>
-    <published>2019-08-01T09:30:11.000Z</published>
-    <updated>2019-08-02T11:31:22.000Z</updated>
+    <published>2019-08-01T08:30:11.000Z</published>
+    <updated>2019-08-02T10:31:22.000Z</updated>
     <author><name>Hannah Ritchie</name></author><author><name>Samantha Vanderslott</name></author>
     <summary><![CDATA[This blog post draws on data and research discussed in our entry on Vaccination.]]></summary>
 </entry>
@@ -55,8 +55,8 @@
     <title><![CDATA[Skepticism to vaccines and what to do about it]]></title>
     <id>https://staging-owid.netlify.com/vaccine-skepticism</id>
     <link rel="alternate" href="https://staging-owid.netlify.com/vaccine-skepticism"/>
-    <published>2019-08-01T09:30:06.000Z</published>
-    <updated>2019-08-02T11:25:19.000Z</updated>
+    <published>2019-08-01T08:30:06.000Z</published>
+    <updated>2019-08-02T10:25:19.000Z</updated>
     <author><name>Samantha Vanderslott</name></author>
     <summary><![CDATA[This blog post draws on data and research discussed in our entry on Vaccination.]]></summary>
 </entry>
@@ -64,17 +64,17 @@
     <title><![CDATA[We're hiring! Why I work at OWID and why you should consider joining our research team]]></title>
     <id>https://staging-owid.netlify.com/health-colleague</id>
     <link rel="alternate" href="https://staging-owid.netlify.com/health-colleague"/>
-    <published>2019-07-31T13:00:15.000Z</published>
-    <updated>2019-07-31T14:40:55.000Z</updated>
+    <published>2019-07-31T12:00:15.000Z</published>
+    <updated>2019-07-31T13:40:55.000Z</updated>
     <author><name>Hannah Ritchie</name></author>
-    <summary><![CDATA[Now that Our World in Data has secured four years of funding, we’re looking to expand our small team. We’re on the search for a postdoctoral researcher in the area of global health and population sciences. At a high level, we’re looking for someone with experience in handling, analyzing and presenting data and with a background in global health, demography, population sciences, epidemiology, or public health. You can find the nitty-gritty details of the role and application process here.]]></summary>
+    <summary><![CDATA[Now that Our World in Data has secured four years of funding, we're looking to expand our small team. We're on the search for a postdoctoral researcher in the area of global health and population sciences. At a high level, we're looking for someone with experience in handling, analyzing and presenting data and with a background in global health, demography, population sciences, epidemiology, or public health. You can find the nitty-gritty details of the role and application process here.]]></summary>
 </entry>
 <entry>
     <title><![CDATA[Are we happier when we spend more time with others?]]></title>
     <id>https://staging-owid.netlify.com/happiness-and-friends</id>
     <link rel="alternate" href="https://staging-owid.netlify.com/happiness-and-friends"/>
-    <published>2019-07-17T07:29:24.000Z</published>
-    <updated>2019-07-27T13:28:57.000Z</updated>
+    <published>2019-07-17T06:29:24.000Z</published>
+    <updated>2019-07-27T12:28:57.000Z</updated>
     <author><name>Esteban Ortiz-Ospina</name></author>
     <summary><![CDATA[Are we happier when we spend more time with others? Studies suggest social relations are key factor in happiness & life satisfaction. We take a closer look at the evidence for how much social connections matter for happiness.]]></summary>
 </entry>
@@ -82,8 +82,8 @@
     <title><![CDATA[How important are social relations for our health and well-being?]]></title>
     <id>https://staging-owid.netlify.com/social-relations-health-and-well-being</id>
     <link rel="alternate" href="https://staging-owid.netlify.com/social-relations-health-and-well-being"/>
-    <published>2019-07-17T06:10:21.000Z</published>
-    <updated>2019-07-27T13:15:26.000Z</updated>
+    <published>2019-07-17T05:10:21.000Z</published>
+    <updated>2019-07-27T12:15:26.000Z</updated>
     <author><name>Esteban Ortiz-Ospina</name></author>
     <summary><![CDATA[Loneliness has been reported to be as lethal as '15 cigarettes a day'. What is the evidence for this? We take a deeper look at the data and research on the link between loneliness and health and wellbeing.]]></summary>
 </entry>
@@ -91,8 +91,8 @@
     <title><![CDATA[More than 8 out of 10 people in the world will live in Asia or Africa by 2100]]></title>
     <id>https://staging-owid.netlify.com/region-population-2100</id>
     <link rel="alternate" href="https://staging-owid.netlify.com/region-population-2100"/>
-    <published>2019-07-15T10:00:02.000Z</published>
-    <updated>2019-07-27T12:14:47.000Z</updated>
+    <published>2019-07-15T09:00:02.000Z</published>
+    <updated>2019-07-27T11:14:47.000Z</updated>
     <author><name>Hannah Ritchie</name></author>
     <summary><![CDATA[The UN projects that the world population will increase from 7.7 billion today to 10.9 billion by 2100. Most of this growth will come from Africa; its share of the world population will rise from 17% to 40%. More than 8-in-10 people will live in Asia or Africa by the end of the century.]]></summary>
 </entry>
