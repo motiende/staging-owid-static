@@ -5,95 +5,95 @@
 <id>https://staging-owid.netlify.com/</id>
 <link type="text/html" rel="alternate" href="https://staging-owid.netlify.com"/>
 <link type="application/atom+xml" rel="self" href="https://staging-owid.netlify.com/atom.xml"/>
-<updated>2019-09-06T07:48:51.000Z</updated>
+<updated>2019-10-04T08:50:13.000Z</updated>
 <entry>
-    <title><![CDATA[Which countries are most densely populated?]]></title>
-    <id>https://staging-owid.netlify.com/most-densely-populated-countries</id>
-    <link rel="alternate" href="https://staging-owid.netlify.com/most-densely-populated-countries"/>
-    <published>2019-09-06T07:48:51.000Z</published>
-    <updated>2019-09-26T13:40:42.000Z</updated>
+    <title><![CDATA[Where in the world do people emit the most CO2?]]></title>
+    <id>https://staging-owid.netlify.com/per-capita-co2</id>
+    <link rel="alternate" href="https://staging-owid.netlify.com/per-capita-co2"/>
+    <published>2019-10-04T08:50:13.000Z</published>
+    <updated>2019-10-04T09:15:55.000Z</updated>
     <author><name>Hannah Ritchie</name></author>
-    <summary><![CDATA[]]></summary>
+    <summary><![CDATA[There are large inequalities in the carbon footprint of people across the world. How do countries across the world compare? Where in the world do people emit the most CO2?]]></summary>
 </entry>
 <entry>
-    <title><![CDATA[50 years ago the average woman had five children, since then the number has halved]]></title>
-    <id>https://staging-owid.netlify.com/fertility-rate#50-years-ago-the-average-woman-had-five-children-since-then-the-number-has-halved</id>
-    <link rel="alternate" href="https://staging-owid.netlify.com/fertility-rate#50-years-ago-the-average-woman-had-five-children-since-then-the-number-has-halved"/>
-    <published>2019-09-03T11:00:30.000Z</published>
-    <updated>2019-09-04T16:18:18.000Z</updated>
+    <title><![CDATA[Who emits the most CO2 today?]]></title>
+    <id>https://staging-owid.netlify.com/annual-co2-emissions</id>
+    <link rel="alternate" href="https://staging-owid.netlify.com/annual-co2-emissions"/>
+    <published>2019-10-03T09:45:01.000Z</published>
+    <updated>2019-10-04T13:20:21.000Z</updated>
+    <author><name>Hannah Ritchie</name></author>
+    <summary><![CDATA[Which countries emit the most CO2 today? How do annual emissions vary across the world?]]></summary>
+</entry>
+<entry>
+    <title><![CDATA[Who has contributed most to global CO2 emissions?]]></title>
+    <id>https://staging-owid.netlify.com/contributed-most-global-co2</id>
+    <link rel="alternate" href="https://staging-owid.netlify.com/contributed-most-global-co2"/>
+    <published>2019-10-01T16:00:19.000Z</published>
+    <updated>2019-10-05T12:06:26.000Z</updated>
+    <author><name>Hannah Ritchie</name></author>
+    <summary><![CDATA[There’s not only significant variability in how much CO2 countries emit across the world today. There are also large differences in how much each has emitted in the past. Who has contributed most to global CO2 since 1750?]]></summary>
+</entry>
+<entry>
+    <title><![CDATA[The history of Our World in Data]]></title>
+    <id>https://staging-owid.netlify.com/our-world-in-data-history</id>
+    <link rel="alternate" href="https://staging-owid.netlify.com/our-world-in-data-history"/>
+    <published>2019-09-26T17:26:21.000Z</published>
+    <updated>2019-09-28T08:51:44.000Z</updated>
     <author><name>Max Roser</name></author>
-    <summary><![CDATA[]]></summary>
+    <summary><![CDATA[Our World in Data has been a project many years in the making. Here we detail the history of how the project got started, its evolution over the years and where we are today as a team.]]></summary>
 </entry>
 <entry>
-    <title><![CDATA[Who smokes more, men or women?]]></title>
-    <id>https://staging-owid.netlify.com/smoking#who-smokes-more-men-or-women</id>
-    <link rel="alternate" href="https://staging-owid.netlify.com/smoking#who-smokes-more-men-or-women"/>
-    <published>2019-09-02T16:25:40.000Z</published>
-    <updated>2019-09-05T11:50:18.000Z</updated>
+    <title><![CDATA[12 key metrics to understand the state of the world]]></title>
+    <id>https://staging-owid.netlify.com/12-key-metrics</id>
+    <link rel="alternate" href="https://staging-owid.netlify.com/12-key-metrics"/>
+    <published>2019-09-26T10:00:16.000Z</published>
+    <updated>2019-10-02T18:18:05.000Z</updated>
     <author><name>Hannah Ritchie</name></author>
-    <summary><![CDATA[]]></summary>
+    <summary><![CDATA[At Our World in Data we present data and research – across more than 3000 charts – on the world’s largest problems. But some metrics are core to our work: here we present 12 that are key to understanding the state of the world.]]></summary>
 </entry>
 <entry>
-    <title><![CDATA[In which countries do people smoke the most?]]></title>
-    <id>https://staging-owid.netlify.com/smoking#in-which-countries-do-people-smoke-the-most</id>
-    <link rel="alternate" href="https://staging-owid.netlify.com/smoking#in-which-countries-do-people-smoke-the-most"/>
-    <published>2019-09-02T16:21:48.000Z</published>
-    <updated>2019-09-05T11:48:35.000Z</updated>
+    <title><![CDATA[Where does our plastic accumulate in the ocean and what does that mean for the future?]]></title>
+    <id>https://staging-owid.netlify.com/where-does-plastic-accumulate</id>
+    <link rel="alternate" href="https://staging-owid.netlify.com/where-does-plastic-accumulate"/>
+    <published>2019-09-24T09:00:48.000Z</published>
+    <updated>2019-09-25T21:37:25.000Z</updated>
     <author><name>Hannah Ritchie</name></author>
-    <summary><![CDATA[]]></summary>
+    <summary><![CDATA[An estimated 8 million tonnes of plastic enter our oceans each year. But the plastic we find in our surface waters is more than 100-fold lower. This is the ‘missing plastic’ problem. So, where does our plastic accumulate in the ocean and what does this mean for the future?]]></summary>
 </entry>
 <entry>
-    <title><![CDATA[Global Inequality of Opportunity]]></title>
-    <id>https://staging-owid.netlify.com/global-inequality-of-opportunity</id>
-    <link rel="alternate" href="https://staging-owid.netlify.com/global-inequality-of-opportunity"/>
-    <published>2019-08-28T10:55:41.000Z</published>
-    <updated>2019-08-28T19:23:14.000Z</updated>
+    <title><![CDATA[If we can make maternal deaths as rare as they are in the healthiest countries we can save almost 300,000 mothers each year]]></title>
+    <id>https://staging-owid.netlify.com/saving-maternal-lives</id>
+    <link rel="alternate" href="https://staging-owid.netlify.com/saving-maternal-lives"/>
+    <published>2019-09-20T10:55:38.000Z</published>
+    <updated>2019-09-20T11:13:00.000Z</updated>
+    <author><name>Hannah Ritchie</name></author>
+    <summary><![CDATA[Maternal mortality was much more common in the past. Today, the number of women that die in childbirth is much lower, but there are still large inequalities across the world. If we can make maternal deaths as rare as they are in the healthiest countries we can save almost 300,000 mothers each year.]]></summary>
+</entry>
+<entry>
+    <title><![CDATA[Talent is everywhere, opportunity is not. We are all losing out because of this.]]></title>
+    <id>https://staging-owid.netlify.com/talent-is-everywhere-opportunity-is-not</id>
+    <link rel="alternate" href="https://staging-owid.netlify.com/talent-is-everywhere-opportunity-is-not"/>
+    <published>2019-09-19T10:53:53.000Z</published>
+    <updated>2019-09-19T18:37:43.000Z</updated>
     <author><name>Max Roser</name></author>
-    <summary><![CDATA[Living conditions are vastly unequal between different places in our world today. Today’s global inequality of opportunity means that what matters most for your living conditions is the good or bad luck of your place of birth. We look at how where you’re born is the strongest determinant of your standard of living, whether in life expectancy, income or education.]]></summary>
+    <summary><![CDATA[The world needs ideas and innovation to make progress against the many problems we face. Creative and talented people that can contribute to this important work are everywhere, but the opportunity to develop is limited to only a small number of well-off children. As a consequence of this, we all – the entire world population – are missing out on the creativity and innovations that would enrich our world and help us move forward.]]></summary>
 </entry>
 <entry>
-    <title><![CDATA[Diarrheal diseases are still a leading cause of child deaths: How many more lives could ORT save?]]></title>
-    <id>https://staging-owid.netlify.com/how-many-lives-saved-ort</id>
-    <link rel="alternate" href="https://staging-owid.netlify.com/how-many-lives-saved-ort"/>
-    <published>2019-08-27T12:10:00.000Z</published>
-    <updated>2019-08-27T15:39:36.000Z</updated>
-    <author><name>Bernadeta Dadonaite</name></author>
-    <summary><![CDATA[Diarrheal diseases remain one of the leading causes of deaths in children. One simple intervention – oral rehydration therapy (ORT) – has saved millions of children in recent decades. Yet it can still do more. We look at the future potential of ORT; barriers to its use; and how many lives it could potentially save.]]></summary>
+    <title><![CDATA[The rise of social media]]></title>
+    <id>https://staging-owid.netlify.com/rise-of-social-media</id>
+    <link rel="alternate" href="https://staging-owid.netlify.com/rise-of-social-media"/>
+    <published>2019-09-18T10:00:44.000Z</published>
+    <updated>2019-09-20T08:49:08.000Z</updated>
+    <author><name>Esteban Ortiz-Ospina</name></author>
+    <summary><![CDATA[Social media sites are used by more than two-thirds of all internet users. When did the rise of social media start and what are the largest sites today? ]]></summary>
 </entry>
 <entry>
-    <title><![CDATA[Oral rehydration therapy: a low-tech solution that has saved millions of lives]]></title>
-    <id>https://staging-owid.netlify.com/oral-rehydration-therapy</id>
-    <link rel="alternate" href="https://staging-owid.netlify.com/oral-rehydration-therapy"/>
-    <published>2019-08-27T12:00:13.000Z</published>
-    <updated>2019-08-27T15:38:18.000Z</updated>
-    <author><name>Bernadeta Dadonaite</name></author>
-    <summary><![CDATA[The world has made significant progress in recent decades in reducing deaths from diarrheal diseases, particularly for children. One of the most successful interventions has been oral rehydration therapy (ORT): a simple salt, water and sugar solution. We look at what ORT is, how it was developed, and how many lives it might have saved.]]></summary>
-</entry>
-<entry>
-    <title><![CDATA[Rotavirus vaccine – an effective tool that prevents children dying from diarrhea]]></title>
-    <id>https://staging-owid.netlify.com/rotavirus-vaccine</id>
-    <link rel="alternate" href="https://staging-owid.netlify.com/rotavirus-vaccine"/>
-    <published>2019-08-22T05:58:27.000Z</published>
-    <updated>2019-08-23T08:49:18.000Z</updated>
-    <author><name>Bernadeta Dadonaite</name></author><author><name>Hannah Ritchie</name></author>
-    <summary><![CDATA[Diarrheal diseases are one the largest killers of children, responsible for more than half a million child deaths in 2017. Rotavirus is the leading cause of diarrheal deaths in children. There is, however, an effective tool against it: the rotavirus vaccine. We look at rotavirus vaccine coverage across the world; the estimated number of lives saved and its potential to save more children.]]></summary>
-</entry>
-<entry>
-    <title><![CDATA[More than half a million children die from diarrhea each year. How do we prevent this?]]></title>
-    <id>https://staging-owid.netlify.com/childhood-diarrheal-diseases</id>
-    <link rel="alternate" href="https://staging-owid.netlify.com/childhood-diarrheal-diseases"/>
-    <published>2019-08-16T15:00:26.000Z</published>
-    <updated>2019-08-30T18:13:04.000Z</updated>
-    <author><name>Bernadeta Dadonaite</name></author>
-    <summary><![CDATA[Despite being treatable and preventable, 1.6 million people died from diarrheal diseases in 2017; one-third were children under five years old. This makes it one of the largest killers of children. Here we look at where and why children are dying from diarrrheal diseases, and what we can do stop this.]]></summary>
-</entry>
-<entry>
-    <title><![CDATA[What are children dying from and what can we do about it?]]></title>
-    <id>https://staging-owid.netlify.com/what-are-children-dying-from-and-what-can-we-do-about-it</id>
-    <link rel="alternate" href="https://staging-owid.netlify.com/what-are-children-dying-from-and-what-can-we-do-about-it"/>
-    <published>2019-08-09T12:00:15.000Z</published>
-    <updated>2019-08-27T14:40:44.000Z</updated>
-    <author><name>Bernadeta Dadonaite</name></author>
-    <summary><![CDATA[15,000 children under five years old die every day. To reduce this figure we need to understand what children are dying from, and what interventions are available to stop this. Here we look at the number of children dying by each cause – from pneumonia to diarrheal diseases, malaria and malnutrition. We also present the range of interventions that are available to prevent children from dying.]]></summary>
+    <title><![CDATA[Where are women most at risk of dying in childbirth?]]></title>
+    <id>https://staging-owid.netlify.com/risk-of-dying-in-childbirth</id>
+    <link rel="alternate" href="https://staging-owid.netlify.com/risk-of-dying-in-childbirth"/>
+    <published>2019-09-17T09:34:36.000Z</published>
+    <updated>2019-09-27T14:37:47.000Z</updated>
+    <author><name>Hannah Ritchie</name></author>
+    <summary><![CDATA[Pregnancy and childbirth are much safer for women today than in the past. But maternal mortality rates are still high in many countries in the world. A woman is 300 to 400 times more likely to die per pregnancy in poor countries than in rich.]]></summary>
 </entry>
 </feed>
