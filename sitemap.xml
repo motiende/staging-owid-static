@@ -729,7 +729,7 @@
     </url>
     <url>
         <loc>https://staging-owid.netlify.com/child-mortality</loc>
-        <lastmod>2019-09-25</lastmod>
+        <lastmod>2019-10-07</lastmod>
     </url>
     <url>
         <loc>https://staging-owid.netlify.com/vaccination</loc>
@@ -913,7 +913,7 @@
     </url>
     <url>
         <loc>https://staging-owid.netlify.com/co2-and-other-greenhouse-gas-emissions</loc>
-        <lastmod>2019-10-05</lastmod>
+        <lastmod>2019-10-07</lastmod>
     </url>
     <url>
         <loc>https://staging-owid.netlify.com/coverage</loc>
@@ -945,7 +945,7 @@
     </url>
     <url>
         <loc>https://staging-owid.netlify.com/internet</loc>
-        <lastmod>2019-10-03</lastmod>
+        <lastmod>2019-10-09</lastmod>
     </url>
     <url>
         <loc>https://staging-owid.netlify.com/latex-maths</loc>
@@ -1033,7 +1033,7 @@
     </url>
     <url>
         <loc>https://staging-owid.netlify.com/how-many-children-did-a-woman-give-birth-to-that-died-before-their-5th-birthday</loc>
-        <lastmod>2019-01-22</lastmod>
+        <lastmod>2019-10-07</lastmod>
     </url>
     <url>
         <loc>https://staging-owid.netlify.com/trust-and-gdp</loc>
@@ -1109,7 +1109,7 @@
     </url>
     <url>
         <loc>https://staging-owid.netlify.com/child-mortality-globally</loc>
-        <lastmod>2019-06-03</lastmod>
+        <lastmod>2019-10-07</lastmod>
     </url>
     <url>
         <loc>https://staging-owid.netlify.com/homelessness</loc>
@@ -1677,7 +1677,7 @@
     </url>
     <url>
         <loc>https://staging-owid.netlify.com/child-mortality-global-overview</loc>
-        <lastmod>2019-05-07</lastmod>
+        <lastmod>2019-10-07</lastmod>
     </url>
     <url>
         <loc>https://staging-owid.netlify.com/trade-and-globalization</loc>
@@ -1689,7 +1689,7 @@
     </url>
     <url>
         <loc>https://staging-owid.netlify.com/much-better-awful-can-be-better</loc>
-        <lastmod>2019-06-03</lastmod>
+        <lastmod>2019-10-07</lastmod>
     </url>
     <url>
         <loc>https://staging-owid.netlify.com/income-inequality-since-1990</loc>
@@ -1817,7 +1817,7 @@
     </url>
     <url>
         <loc>https://staging-owid.netlify.com/child-mortality-global-goal</loc>
-        <lastmod>2019-05-02</lastmod>
+        <lastmod>2019-10-07</lastmod>
     </url>
     <url>
         <loc>https://staging-owid.netlify.com/life-by-environment</loc>
@@ -1853,11 +1853,11 @@
     </url>
     <url>
         <loc>https://staging-owid.netlify.com/child-mortality-everyday-tragedy-no-headlines</loc>
-        <lastmod>2019-05-30</lastmod>
+        <lastmod>2019-10-07</lastmod>
     </url>
     <url>
         <loc>https://staging-owid.netlify.com/child-mortality-in-the-past</loc>
-        <lastmod>2019-06-26</lastmod>
+        <lastmod>2019-10-07</lastmod>
     </url>
     <url>
         <loc>https://staging-owid.netlify.com/population-momentum</loc>
@@ -2057,7 +2057,7 @@
     </url>
     <url>
         <loc>https://staging-owid.netlify.com/seafood-production</loc>
-        <lastmod>2019-09-13</lastmod>
+        <lastmod>2019-10-06</lastmod>
     </url>
     <url>
         <loc>https://staging-owid.netlify.com/how-many-women-die-in-childbirth</loc>
@@ -2173,11 +2173,11 @@
     </url>
     <url>
         <loc>https://staging-owid.netlify.com/annual-co2-emissions</loc>
-        <lastmod>2019-10-04</lastmod>
+        <lastmod>2019-10-07</lastmod>
     </url>
     <url>
         <loc>https://staging-owid.netlify.com/untitled-reusable-block-34</loc>
-        <lastmod>2019-10-04</lastmod>
+        <lastmod>2019-10-07</lastmod>
     </url>
     <url>
         <loc>https://staging-owid.netlify.com/untitled-reusable-block-36</loc>
@@ -2245,11 +2245,75 @@
     </url>
     <url>
         <loc>https://staging-owid.netlify.com/preterm-birth-interventions</loc>
-        <lastmod>2019-10-04</lastmod>
+        <lastmod>2019-10-07</lastmod>
+    </url>
+    <url>
+        <loc>https://staging-owid.netlify.com/consumption-based-co2</loc>
+        <lastmod>2019-10-08</lastmod>
     </url>
     <url>
         <loc>https://staging-owid.netlify.com/untitled-reusable-block-51</loc>
-        <lastmod>2019-10-05</lastmod>
+        <lastmod>2019-10-08</lastmod>
+    </url>
+    <url>
+        <loc>https://staging-owid.netlify.com/untitled-reusable-block-52</loc>
+        <lastmod>2019-10-07</lastmod>
+    </url>
+    <url>
+        <loc>https://staging-owid.netlify.com/untitled-reusable-block-53</loc>
+        <lastmod>2019-10-07</lastmod>
+    </url>
+    <url>
+        <loc>https://staging-owid.netlify.com/untitled-reusable-block-54</loc>
+        <lastmod>2019-10-07</lastmod>
+    </url>
+    <url>
+        <loc>https://staging-owid.netlify.com/untitled-reusable-block-56</loc>
+        <lastmod>2019-10-07</lastmod>
+    </url>
+    <url>
+        <loc>https://staging-owid.netlify.com/untitled-reusable-block-55</loc>
+        <lastmod>2019-10-07</lastmod>
+    </url>
+    <url>
+        <loc>https://staging-owid.netlify.com/untitled-reusable-block-57</loc>
+        <lastmod>2019-10-07</lastmod>
+    </url>
+    <url>
+        <loc>https://staging-owid.netlify.com/untitled-reusable-block-58</loc>
+        <lastmod>2019-10-07</lastmod>
+    </url>
+    <url>
+        <loc>https://staging-owid.netlify.com/untitled-reusable-block-59</loc>
+        <lastmod>2019-10-07</lastmod>
+    </url>
+    <url>
+        <loc>https://staging-owid.netlify.com/untitled-reusable-block-60</loc>
+        <lastmod>2019-10-07</lastmod>
+    </url>
+    <url>
+        <loc>https://staging-owid.netlify.com/untitled-reusable-block-61</loc>
+        <lastmod>2019-10-07</lastmod>
+    </url>
+    <url>
+        <loc>https://staging-owid.netlify.com/untitled-reusable-block-62</loc>
+        <lastmod>2019-10-07</lastmod>
+    </url>
+    <url>
+        <loc>https://staging-owid.netlify.com/untitled-reusable-block-63</loc>
+        <lastmod>2019-10-07</lastmod>
+    </url>
+    <url>
+        <loc>https://staging-owid.netlify.com/untitled-reusable-block-64</loc>
+        <lastmod>2019-10-07</lastmod>
+    </url>
+    <url>
+        <loc>https://staging-owid.netlify.com/untitled-reusable-block-65</loc>
+        <lastmod>2019-10-07</lastmod>
+    </url>
+    <url>
+        <loc>https://staging-owid.netlify.com/intervention-risk-reduction-csv</loc>
+        <lastmod>2019-10-08</lastmod>
     </url>
     <url>
         <loc>https://staging-owid.netlify.com/grapher/suicide-rates-by-country</loc>
@@ -5077,15 +5141,15 @@
     </url>
     <url>
         <loc>https://staging-owid.netlify.com/grapher/poultry-yields-meat-per-animal</loc>
-        <lastmod>2018-03-15</lastmod>
+        <lastmod>2019-10-06</lastmod>
     </url>
     <url>
         <loc>https://staging-owid.netlify.com/grapher/pig-yields-meat-per-animal-in-hectograms-100-grams</loc>
-        <lastmod>2018-03-15</lastmod>
+        <lastmod>2019-10-06</lastmod>
     </url>
     <url>
         <loc>https://staging-owid.netlify.com/grapher/cattle-meat-yields-hectograms-100-grams-per-animal</loc>
-        <lastmod>2018-03-15</lastmod>
+        <lastmod>2019-10-06</lastmod>
     </url>
     <url>
         <loc>https://staging-owid.netlify.com/grapher/cereal-distribution-to-uses</loc>
@@ -5097,7 +5161,7 @@
     </url>
     <url>
         <loc>https://staging-owid.netlify.com/grapher/per-capita-meat-consumption-by-type-kilograms-per-year</loc>
-        <lastmod>2018-03-15</lastmod>
+        <lastmod>2019-10-06</lastmod>
     </url>
     <url>
         <loc>https://staging-owid.netlify.com/grapher/per-capita-milk-consumption</loc>
@@ -5133,11 +5197,11 @@
     </url>
     <url>
         <loc>https://staging-owid.netlify.com/grapher/per-capita-egg-consumption-kilograms-per-year</loc>
-        <lastmod>2018-03-15</lastmod>
+        <lastmod>2019-10-06</lastmod>
     </url>
     <url>
         <loc>https://staging-owid.netlify.com/grapher/egg-yield-per-bird</loc>
-        <lastmod>2018-03-15</lastmod>
+        <lastmod>2019-10-06</lastmod>
     </url>
     <url>
         <loc>https://staging-owid.netlify.com/grapher/share-of-consumer-expenditure-spent-on-food</loc>
@@ -14214,5 +14278,77 @@
     <url>
         <loc>https://staging-owid.netlify.com/grapher/child-death-change</loc>
         <lastmod>2019-10-03</lastmod>
+    </url>
+    <url>
+        <loc>https://staging-owid.netlify.com/grapher/child-mortality-change</loc>
+        <lastmod>2019-10-06</lastmod>
+    </url>
+    <url>
+        <loc>https://staging-owid.netlify.com/grapher/percentage-of-pregnant-women-receiving-prenatal-care</loc>
+        <lastmod>2019-10-08</lastmod>
+    </url>
+    <url>
+        <loc>https://staging-owid.netlify.com/grapher/land-use-per-kg-poore</loc>
+        <lastmod>2019-10-08</lastmod>
+    </url>
+    <url>
+        <loc>https://staging-owid.netlify.com/grapher/ghg-per-kg-poore</loc>
+        <lastmod>2019-10-08</lastmod>
+    </url>
+    <url>
+        <loc>https://staging-owid.netlify.com/grapher/water-withdrawals-per-kg-poore</loc>
+        <lastmod>2019-10-08</lastmod>
+    </url>
+    <url>
+        <loc>https://staging-owid.netlify.com/grapher/scarcity-water-per-kg-poore</loc>
+        <lastmod>2019-10-08</lastmod>
+    </url>
+    <url>
+        <loc>https://staging-owid.netlify.com/grapher/antenatal-care-coverage</loc>
+        <lastmod>2019-10-08</lastmod>
+    </url>
+    <url>
+        <loc>https://staging-owid.netlify.com/grapher/eutrophying-emissions-per-kg-poore</loc>
+        <lastmod>2019-10-08</lastmod>
+    </url>
+    <url>
+        <loc>https://staging-owid.netlify.com/grapher/land-use-protein-poore</loc>
+        <lastmod>2019-10-08</lastmod>
+    </url>
+    <url>
+        <loc>https://staging-owid.netlify.com/grapher/ghg-per-protein-poore</loc>
+        <lastmod>2019-10-08</lastmod>
+    </url>
+    <url>
+        <loc>https://staging-owid.netlify.com/grapher/water-per-protein-poore</loc>
+        <lastmod>2019-10-08</lastmod>
+    </url>
+    <url>
+        <loc>https://staging-owid.netlify.com/grapher/scarcity-water-protein-poore</loc>
+        <lastmod>2019-10-08</lastmod>
+    </url>
+    <url>
+        <loc>https://staging-owid.netlify.com/grapher/land-use-kcal-poore</loc>
+        <lastmod>2019-10-08</lastmod>
+    </url>
+    <url>
+        <loc>https://staging-owid.netlify.com/grapher/ghg-kcal-poore</loc>
+        <lastmod>2019-10-08</lastmod>
+    </url>
+    <url>
+        <loc>https://staging-owid.netlify.com/grapher/deaths-by-cause-during-early-neonatal-period</loc>
+        <lastmod>2019-10-08</lastmod>
+    </url>
+    <url>
+        <loc>https://staging-owid.netlify.com/grapher/late-neonatal-period-child-deaths-by-cause</loc>
+        <lastmod>2019-10-08</lastmod>
+    </url>
+    <url>
+        <loc>https://staging-owid.netlify.com/grapher/post-neonatal-period-child-deaths-by-cause</loc>
+        <lastmod>2019-10-08</lastmod>
+    </url>
+    <url>
+        <loc>https://staging-owid.netlify.com/grapher/child-deaths-by-cause-between-years-1-4</loc>
+        <lastmod>2019-10-08</lastmod>
     </url>
 </urlset>
